@@ -37,7 +37,7 @@ export default function Quiz() {
     const goDefault = async () => {
       await wait(300);
       // ===== [ALTERADO MINIMAMENTE] Anexando parâmetros atuais ao /inicio =====
-      window.location.href = withQuery("https://www.mercado-aseguro.site/");
+      window.location.href = withQuery("/inicio");
     };
 
     try {
